@@ -1,0 +1,30 @@
+
+Machine Learning
+================
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectPercentile.html
+http://scikit-learn.org/stable/modules/svm.html
+http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC
+http://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html
+http://scikit-learn.org/stable/modules/cross_validation.html
+http://scikit-learn.org/stable/modules/pipeline.html
+http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+http://en.wikipedia.org/wiki/Feature_scaling
+
+Python
+======
+http://stackoverflow.com/questions/477486/python-decimal-range-step-value
+https://docs.python.org/2/tutorial/controlflow.html
+http://stackoverflow.com/questions/944700/how-to-check-for-nan-in-python
+
+Finance
+=======
+http://www.businessdictionary.com/definition/deferred-payment.html
+http://www.investopedia.com/terms/d/deferredrevenue.asp
+http://www.mmblawfirm.com/publications/articles/tax/5.htm
+https://www.nceo.org/articles/stock-options-restricted-phantom-sars-espps
+http://www.investopedia.com/terms/l/long_term_incentive-plan.asp
+http://en.wikipedia.org/wiki/Restricted_stock
+http://www.businessdictionary.com/definition/interest-in-advance-loan.html
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.

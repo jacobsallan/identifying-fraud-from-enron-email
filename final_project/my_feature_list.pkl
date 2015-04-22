@@ -1,0 +1,14 @@
+(lp0
+S'poi'
+p1
+aS'exercised_stock_options'
+p2
+aS'salary'
+p3
+aS'bonus'
+p4
+aS'deferred_income'
+p5
+aS'long_term_incentive'
+p6
+a.
